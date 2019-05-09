@@ -1,0 +1,16 @@
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\Choice.baml
+D:\ДЭиВИ\Курсовой\WpfApplication3\WpfApplication3\obj\Debug\Choice.g.cs

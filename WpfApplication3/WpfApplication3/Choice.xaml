@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication3.Choice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Choice" MaxHeight="350" MaxWidth="350">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="D:\ДЭиВИ\Курсовой\WpfApplication2\img\world.jpg" Opacity="0.5"></ImageBrush>
+        </Grid.Background>
+        <Rectangle Fill="WhiteSmoke" Opacity="0.6" HorizontalAlignment="Left" Height="244" Margin="26,30,0,0" Stroke="Black" VerticalAlignment="Top" Width="297"/>
+        <TextBox Text="Страна" Style="{StaticResource textBox}" Margin="44,56,0,0"/>
+        <TextBox Text="Город" Style="{StaticResource textBox}" Height="24" Margin="44,104,0,0"/>
+        <CheckBox Content="Развлечения" Margin="44,163,0,0" Style="{StaticResource checkBox}"/>
+        <CheckBox Content="Музеи"  Margin="44,192,0,0" Style="{StaticResource checkBox}"/>
+        <CheckBox Content="История"  Margin="44,221,0,0" Style="{StaticResource checkBox}"/>
+        <CheckBox Content="Парки\Зоопарки"  Margin="192,163,0,0" Style="{StaticResource checkBox}"/>
+        <CheckBox Content="Театры" Margin="192,192,0,0" Style="{StaticResource checkBox}" />
+        <Button Content="ОК" HorizontalAlignment="Left" Margin="192,241,0,0" VerticalAlignment="Top" Width="75" Background="WhiteSmoke"/>
+    </Grid>
+</Window>
